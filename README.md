@@ -12,21 +12,21 @@ Poznańska Liga Netrunnera, walczymy o sławę i uznanie :-)
 Sezon ligowy zaczyna się 19 marca w Gwarnej i trwa do ostatniego regularnego spotkania w czerwcu.
 
 Na dzień dzisiejszy aktualna rozpiska wygląda nastepująco (liczymy, że nas będą gościć do końca sezonu i nic się nie zmieni):
-19.03 - Gwarna
-27.03 - Cube
-02.04 - Gwarna
-10.04 - Cube
-16.04 - Gwarna
-24.04 - Cube
-30.04 - Gwarna
-08.05 - Cube
-14.05 - Gwarna
-22.05 - Cube
-28.05 - Gwarna
-05.06 - Cube
-11.06 - Gwarna
-19.06 - Cube
-25.06 - Gwarna
+- 19.03 - Gwarna
+- 27.03 - Cube
+- 02.04 - Gwarna
+- 10.04 - Cube
+- 16.04 - Gwarna
+- 24.04 - Cube
+- 30.04 - Gwarna
+- 08.05 - Cube
+- 14.05 - Gwarna
+- 22.05 - Cube
+- 28.05 - Gwarna
+- 05.06 - Cube
+- 11.06 - Gwarna
+- 19.06 - Cube
+- 25.06 - Gwarna
 
 
 ### Za ile?
