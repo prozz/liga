@@ -3,7 +3,7 @@ Poznańska Liga Netrunnera, walczymy o sławę i uznanie :-)
 
 
 ### Gdzie?
-- w Gwarnej (środy od 18:00)
+- w Gwarnej (środy od 18:00, za wyjątkiem tygodni, gdy jest turniej w Cube)
 - w Cube (czwartki od 18:00, za wyjątkiem tygodni, gdy było spotkanie w Gwarnej)
 - w maku za rogiem (o ile znajdziesz przeciwnika)
 
