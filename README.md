@@ -30,7 +30,7 @@ Na dzień dzisiejszy aktualna rozpiska wygląda nastepująco (liczymy, że nas b
 
 
 ### Za ile?
-17 zł płatne przed pierwszym ligowym meczem do organizatora (patrz: Nagrody!)
+20 zł płatne przed pierwszym ligowym meczem do organizatora (patrz: Nagrody!)
 
 
 ### Nagrody!
