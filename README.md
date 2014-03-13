@@ -30,7 +30,7 @@ Na dzień dzisiejszy aktualna rozpiska wygląda nastepująco (liczymy, że nas b
 
 
 ### Za ile?
-20 zł płatne przed pierwszym ligowym meczem do organizatora (patrz: Nagrody!)
+20 zł płatne przed pierwszym ligowym meczem do koordynatora ligi (patrz: Nagrody!)
 
 
 ### Nagrody!
@@ -48,11 +48,11 @@ przegranych o kolejne nagrody (datapacki, koszulki na karty, akcesoria itp.).
 - Mecz rewanżowy nie może odbyć się tego samego dnia co pierwszy mecz, chyba że obaj gracze wyrażą na to zgodę.
 - Wyniki gier turniejowych w Cube liczą się do ligi, o ile nie macie już dwóch meczy za sobą.
 - Za każdą grę ligową zdobywa się punkty (wygrana = 3, remis = 2, przegrana = 1).
-- Wynik oraz ewentualne zdobyte trofea zgłaszamy po grze do organizatora (bez czitów, i tak się wyda :)).
+- Wynik oraz ewentualne zdobyte trofea zgłaszamy po grze do koordynatora ligi (bez czitów, i tak się wyda :)).
 - Suma zdobytych punktów wyznacza miejsce w klasyfikacji generalnej. :two:
 - Ilość zdobytych trofeów wyznacza miejsce w klasyfikacji Łowcy Trofeów. :one:
 
-Gramy z duchem fair play, ale staramy się nie zapominać o kredytach z Desperado. Wszelkie kwestie sporne rozstrzygane są w zgodzie z zasadami i dobrym smakiem przez organizatora wspartego głosem ludu na naszej grupie FB.
+Gramy z duchem fair play, ale staramy się nie zapominać o kredytach z Desperado. Wszelkie kwestie sporne rozstrzygane są w zgodzie z zasadami i dobrym smakiem przez koordynatora wspartego głosem ludu na naszej grupie FB.
 Wyniki/analizy/punkty/metagame/raporty/decki etc będą na bieżąco publikowane. Zachęca się do czynnego udziału graczy w życiu ligowym.
 
 
