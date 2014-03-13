@@ -55,13 +55,14 @@ przegranych o kolejne nagrody (datapacki, koszulki na karty, akcesoria itp.).
 Gramy z duchem fair play, ale staramy się nie zapominać o kredytach z Desperado. Wszelkie kwestie sporne rozstrzygane są w zgodzie z zasadami i dobrym smakiem przez organizatora wspartego głosem ludu na naszej grupie FB.
 Wyniki/analizy/punkty/metagame/raporty/decki etc będą na bieżąco publikowane. Zachęca się do czynnego udziału graczy w życiu ligowym.
 
+
 ### Trofea!
-Podczas zapisywania się do ligi dostałeś kartę z nimi. Jeśli zgubiłeś sprawdź ten link:
-http://boardgamegeek.com/filepage/92998/netrunner-achievements
+Na stronie drugiej regulaminu podajemy liste osiągnięć możliwych do zdobycia w lidze.
+
 
 ### Organizator
 Liga organizowana jest przez fanów Netrunnera zrzeszonych na grupie FB 'Netrunner Poznań'. 
-Osobą kontaktową/koordynatorem został mianowany prozz.
+Główny koordynator: prozz
 
 ===
 :one: W przypadku remisów w ilości zdobytych trofeów, decyduje miejsce końcowe w klasyfikacji generalnej. Jeśli najlepszy łowca będzie jednocześnie w top 2, nagroda przechodzi na kolejnego łowcę.
