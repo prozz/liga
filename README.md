@@ -9,7 +9,7 @@ Poznańska Liga Netrunnera, walczymy o sławę i uznanie :-)
 
 
 ### Kiedy?
-Sezon ligowy zaczyna się natychmiast i trwa do końca roku akademickiego.
+Sezon ligowy zaczyna się natychmiast i trwa do początku wakacji.
 
 
 ### Za ile?
