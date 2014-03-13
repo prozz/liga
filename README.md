@@ -9,7 +9,7 @@ Poznańska Liga Netrunnera, walczymy o sławę i uznanie :-)
 
 
 ### Kiedy?
-Sezon ligowy zaczyna się natychmiast i trwa do początku wakacji.
+Sezon ligowy zaczyna się 19 marca w Gwanej i trwa do końca czerwca.
 
 
 ### Za ile?
