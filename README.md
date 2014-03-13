@@ -60,8 +60,9 @@ Wyniki/analizy/punkty/metagame/raporty/decki etc będą na bieżąco publikowane
 Na stronie drugiej regulaminu podajemy liste osiągnięć możliwych do zdobycia w lidze.
 
 
-### Organizator
+### Kto za to odpowiada?
 Liga organizowana jest przez fanów Netrunnera zrzeszonych na grupie FB 'Netrunner Poznań'. 
+
 Główny koordynator: prozz
 
 ===
