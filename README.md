@@ -65,6 +65,9 @@ Liga organizowana jest przez fanów Netrunnera zrzeszonych na grupie FB 'Netrunn
 
 Główny koordynator: prozz
 
+### Kontakt
+https://www.facebook.com/groups/android.netrunner.poznan/
+
 ===
 :one: W przypadku remisów w ilości zdobytych trofeów, decyduje miejsce końcowe w klasyfikacji generalnej. Jeśli najlepszy łowca będzie jednocześnie w top 2, nagroda przechodzi na kolejnego łowcę.
 
