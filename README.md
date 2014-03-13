@@ -59,6 +59,10 @@ Wyniki/analizy/punkty/metagame/raporty/decki etc będą na bieżąco publikowane
 Podczas zapisywania się do ligi dostałeś kartę z nimi. Jeśli zgubiłeś sprawdź ten link:
 http://boardgamegeek.com/filepage/92998/netrunner-achievements
 
+### Organizator
+Liga organizowana jest przez fanów Netrunnera zrzeszonych na grupie FB 'Netrunner Poznań'. 
+Osobą kontaktową/koordynatorem został mianowany prozz.
+
 ===
 :one: W przypadku remisów w ilości zdobytych trofeów, decyduje miejsce końcowe w klasyfikacji generalnej. Jeśli najlepszy łowca będzie jednocześnie w top 2, nagroda przechodzi na kolejnego łowcę.
 
