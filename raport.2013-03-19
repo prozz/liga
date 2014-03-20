@@ -1,31 +1,32 @@
-wajda vs kuba 3:1
-blaze vs chomik 2:2
-prozz vs mikolaj 3:1
-blaze vs rattkin 1:3
-kuba vs david 1:3
-chomik vs matej 1:3
+Marek T. vs Kuba M        3:1
+Dawid S. vs Maciej C.     2:2
+Paweł R. vs Mikolaj K.    3:1
+Dawid S. vs Sebastian Z.  1:3
+Kuba M. vs David C.       1:3
+Maciej C. vs Mateusz N.   1:3
 
-trofea:
-rattkin: 
-c13, c15, c19, c20, c27, c28
-r9, r15, r26, r27, r28, r-id-kit
-wajda: 
-c11, c19, c23
-r9, r12, r15
-blaze: 
-c9, c12
-r9, r12, r16, r26,
-chomik: 
-c13, c25, c29
-r9, r11, r15, r20, r27, r28
-prozz: 
-c5, c6, c19, c23, c29, c-id-ci
-r9, r12, r16, r17
-mikolaj: 
-c13, c15  
-david: 
-c13, c15, c18, c23
-r1, r15
-matej: 
-c9, c12, c19, c23
-r1, r3, r16, r20, r26, r27
+Trofea:
+
+David C. 
+  c13, c15, c18, c23
+  r1, r15
+Dawid S. 
+  c9, c12
+  r9, r12, r16, r26,
+Maciej C. 
+  c13, c25, c29
+  r9, r11, r15, r20, r27, r28
+Marek T. 
+  c11, c19, c23
+  r9, r12, r15
+Mateusz N. 
+  c9, c12, c19, c23
+  r1, r3, r16, r20, r26, r27
+Mikołaj K. 
+  c13, c15  
+Paweł R. 
+  c5, c6, c19, c23, c29, c-id-ci
+  r9, r12, r16, r17
+Sebastian Z. 
+  c13, c15, c19, c20, c27, c28
+  r9, r15, r26, r27, r28, r-id-kit
