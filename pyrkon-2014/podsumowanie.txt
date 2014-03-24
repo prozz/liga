@@ -1,0 +1,26 @@
+Pyrkon 2014 - Podsumowanie
+
+25 graczy, 5 rund swiss, rundy 60 minut, brak topa.
+
+Metagame:
+Korp:
+- 11 NBN (6 MN vs 5 TWIY)
+- 6 HB (5 ETF vs 1 CI)
+- 5 Weyland (5 BaBW vs 1 GRNDL)
+- 3 Jinteki (2 RP vs 1 PE)
+Runner:
+- 9 Criminal (6 Andy vs 3 Gabe)
+- 9 Shaper (5 CT vs 3 Kit vs 1 Kate)
+- 7 Anarch (4 Reina vs 3 Noise)
+
+Wyniki: https://github.com/prozz/liga/blob/master/pyrkon-2014/wyniki.txt
+Rundy: https://github.com/prozz/liga/blob/master/pyrkon-2014/rundy.txt
+
+Decki:
+Zwycięzca:
+Runner: http://netrunnerdb.com/en/decklist/3450/pyrkon-2014-winner
+Corp: http://netrunnerdb.com/en/decklist/3451/pyrkon-2014-winner
+
+Runner up:
+Runner: http://netrunnerdb.com/en/decklist/3445/buggy-chess
+Corp: http://netrunnerdb.com/en/decklist/3446/weyland-tag-n-bag-the-old-fashion-way
